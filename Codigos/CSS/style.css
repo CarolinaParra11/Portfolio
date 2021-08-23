@@ -1,0 +1,21 @@
+.Debug
+{
+    background-color: red;
+}
+
+.LinkNavbar
+{
+    font-family: "Elephant";
+    margin: 0.25rem;
+}
+.IconeNavbar
+{
+    opacity: 75%;
+    width: 1.525rem;
+    height: 1.45rem;
+    margin: 0.5rem;
+}
+.IconeNavbar:hover
+{
+    opacity: 100%;
+}
